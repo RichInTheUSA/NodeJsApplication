@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 
-//rich
-
 // This stack is using Express over top of NodeJS.
 
 var express = require('express');
