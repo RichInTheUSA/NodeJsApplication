@@ -1,0 +1,16 @@
+{
+    "name": "NodeJsApplication",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "rich",
+    "contributors": [],
+    "dependencies": {},
+    "devDependencies":{
+    "grunt-contrib-copy":"0.4.x",
+    "grunt-contrib-clean":"0.4.x"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+
+}
